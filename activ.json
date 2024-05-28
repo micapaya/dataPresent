@@ -1,0 +1,42 @@
+[        
+        {
+            "activité": "Travail",
+            "pourcentage": 22
+        },
+        {
+            "activité": "Loisirs",
+            "pourcentage": 5
+        },
+        {
+            "activité": "Exercice",
+            "pourcentage": 20
+        },
+        {
+            "activité": "Lecture",
+            "pourcentage": 3
+        },
+        {
+            "activité": "Cuisine",
+            "pourcentage": 19
+        },
+        {
+            "activité": "Sommeil",
+            "pourcentage": 16
+        },
+        {
+            "activité": "Méditation",
+            "pourcentage": 4
+        },
+        {
+            "activité": "Étude",
+            "pourcentage": 0.5
+        },
+        {
+            "activité": "Tâches ménagères",
+            "pourcentage": 4
+        },
+        {
+            "activité": "Temps en famille",
+            "pourcentage": 6.5
+        }
+]
